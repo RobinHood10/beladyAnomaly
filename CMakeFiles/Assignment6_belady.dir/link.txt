@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -lpthread -Ofast     CMakeFiles/Assignment6_belady.dir/beladyAnomalyFast.cpp.o  -o Assignment6_belady -rdynamic 

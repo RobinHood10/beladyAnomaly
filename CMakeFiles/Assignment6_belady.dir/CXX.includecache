@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Documents/CS3100/Assignment6_belady/beladyAnomalyFast.cpp
+iostream
+-
+queue
+-
+cstdlib
+-
+ctime
+-
+vector
+-
+random
+-
+algorithm
+-
+
